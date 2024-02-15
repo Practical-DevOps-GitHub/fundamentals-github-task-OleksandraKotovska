@@ -13,5 +13,3 @@ def largest_number(num1: int, num2: int) -> int:
         return "Please enter the numbers"
 
 print(largest_number(3, 2))
-
-#test
